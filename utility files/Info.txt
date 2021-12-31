@@ -1,0 +1,3 @@
+﻿Hi Addressbook,Hello,  welocome, information
+Maha,Lakshmi,t.r nagar,karnataka,bangalore, 8655444333,08876,maha@gmail.com
+promod,jain,B.s.r layot,Andrapraesh,nellur,756544339, 09866,promod@gmail.com
