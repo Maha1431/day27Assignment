@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Maha",
+    "lastName": "Lakshmi",
+    "address": "hsr layout",
+    "state": "Karnatka",
+    "city": "bangalore",
+    "zip": "92888",
+    "phoneNumber": 9298372,
+    "email": "Maha@gmail.com"
+  },
+  {
+    "firstName": "promod",
+    "lastName": "jain",
+    "address": "t.t nagar",
+    "state": "Mumbai",
+    "city": "pune",
+    "zip": "09822",
+    "phoneNumber": 827636236,
+    "email": "promod@gmail.com"
+  }
+]
