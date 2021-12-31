@@ -1,0 +1,16 @@
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.AssemblyInfo.cs
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.exe
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.deps.json
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.runtimeconfig.json
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.dll
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\ADDRESSBOOKS.pdb
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.dll
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.pdb
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\obj\Debug\netcoreapp3.1\ADDRESSBOOKS.genruntimeconfig.cache
+C:\Users\CSC\source\repos\ADDRESSBOOKS\ADDRESSBOOKS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
